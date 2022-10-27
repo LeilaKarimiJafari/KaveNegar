@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+ikVVEklQXbbPPUPLd0cpdi1o4nl63rDoK9/uC7KsR88slaTa+d5PHk1KNvf5Ux7gZRpZhoAlpxtcDzTB8cDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Develop\\Kavenegar\\Infrastructure\\KarimiProject.ExcelManager\\KarimiProject.ExcelManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

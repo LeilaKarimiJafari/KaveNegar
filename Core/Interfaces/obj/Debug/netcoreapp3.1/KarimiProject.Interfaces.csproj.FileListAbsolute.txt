@@ -1,0 +1,12 @@
+D:\Develop\Kavenegar\Core\Interfaces\bin\Debug\netcoreapp3.1\KarimiProject.Interfaces.deps.json
+D:\Develop\Kavenegar\Core\Interfaces\bin\Debug\netcoreapp3.1\KarimiProject.Interfaces.dll
+D:\Develop\Kavenegar\Core\Interfaces\bin\Debug\netcoreapp3.1\KarimiProject.Interfaces.pdb
+D:\Develop\Kavenegar\Core\Interfaces\obj\Debug\netcoreapp3.1\KarimiProject.Interfaces.csprojAssemblyReference.cache
+D:\Develop\Kavenegar\Core\Interfaces\obj\Debug\netcoreapp3.1\KarimiProject.Interfaces.csproj.CoreCompileInputs.cache
+D:\Develop\Kavenegar\Core\Interfaces\obj\Debug\netcoreapp3.1\KarimiProject.Interfaces.AssemblyInfoInputs.cache
+D:\Develop\Kavenegar\Core\Interfaces\obj\Debug\netcoreapp3.1\KarimiProject.Interfaces.AssemblyInfo.cs
+D:\Develop\Kavenegar\Core\Interfaces\obj\Debug\netcoreapp3.1\KarimiProject.Interfaces.dll
+D:\Develop\Kavenegar\Core\Interfaces\obj\Debug\netcoreapp3.1\KarimiProject.Interfaces.pdb
+D:\Develop\Kavenegar\Core\Interfaces\bin\Debug\netcoreapp3.1\KarimiProject.Entities.dll
+D:\Develop\Kavenegar\Core\Interfaces\bin\Debug\netcoreapp3.1\KarimiProject.Entities.pdb
+D:\Develop\Kavenegar\Core\Interfaces\obj\Debug\netcoreapp3.1\KarimiProject.Interfaces.csproj.CopyComplete

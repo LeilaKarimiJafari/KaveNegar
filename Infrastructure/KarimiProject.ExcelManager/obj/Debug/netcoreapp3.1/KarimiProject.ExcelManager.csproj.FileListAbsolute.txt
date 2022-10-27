@@ -1,0 +1,14 @@
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\bin\Debug\netcoreapp3.1\KarimiProject.ExcelManager.deps.json
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\bin\Debug\netcoreapp3.1\KarimiProject.ExcelManager.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\bin\Debug\netcoreapp3.1\KarimiProject.Entities.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\bin\Debug\netcoreapp3.1\KarimiProject.Interfaces.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\bin\Debug\netcoreapp3.1\KarimiProject.Interfaces.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\bin\Debug\netcoreapp3.1\KarimiProject.Entities.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\obj\Debug\netcoreapp3.1\KarimiProject.ExcelManager.csprojAssemblyReference.cache
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\obj\Debug\netcoreapp3.1\KarimiProject.ExcelManager.AssemblyInfoInputs.cache
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\obj\Debug\netcoreapp3.1\KarimiProject.ExcelManager.AssemblyInfo.cs
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\obj\Debug\netcoreapp3.1\KarimiProject.ExcelManager.csproj.CopyComplete
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\bin\Debug\netcoreapp3.1\KarimiProject.ExcelManager.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\obj\Debug\netcoreapp3.1\KarimiProject.ExcelManager.csproj.CoreCompileInputs.cache
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\obj\Debug\netcoreapp3.1\KarimiProject.ExcelManager.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.ExcelManager\obj\Debug\netcoreapp3.1\KarimiProject.ExcelManager.pdb

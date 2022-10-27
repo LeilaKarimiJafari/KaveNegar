@@ -1,0 +1,17 @@
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\bin\Debug\netcoreapp3.1\KarimiProject.SqlService.deps.json
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\bin\Debug\netcoreapp3.1\KarimiProject.SqlService.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\obj\Debug\netcoreapp3.1\KarimiProject.SqlService.AssemblyInfoInputs.cache
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\obj\Debug\netcoreapp3.1\KarimiProject.SqlService.AssemblyInfo.cs
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\obj\Debug\netcoreapp3.1\KarimiProject.SqlService.csprojAssemblyReference.cache
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\bin\Debug\netcoreapp3.1\KarimiProject.SqlService.runtimeconfig.json
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\bin\Debug\netcoreapp3.1\KarimiProject.SqlService.runtimeconfig.dev.json
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\bin\Debug\netcoreapp3.1\KarimiProject.SqlService.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\bin\Debug\netcoreapp3.1\KarimiProject.Entities.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\bin\Debug\netcoreapp3.1\KarimiProject.Interfaces.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\bin\Debug\netcoreapp3.1\KarimiProject.Entities.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\bin\Debug\netcoreapp3.1\KarimiProject.Interfaces.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\obj\Debug\netcoreapp3.1\KarimiProject.SqlService.csproj.CoreCompileInputs.cache
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\obj\Debug\netcoreapp3.1\KarimiProject.SqlService.csproj.CopyComplete
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\obj\Debug\netcoreapp3.1\KarimiProject.SqlService.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\obj\Debug\netcoreapp3.1\KarimiProject.SqlService.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.SqlService\obj\Debug\netcoreapp3.1\KarimiProject.SqlService.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KarimiProject.Entities/1.0.0": {
+        "runtime": {
+          "KarimiProject.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KarimiProject.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

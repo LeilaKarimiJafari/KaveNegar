@@ -1,0 +1,14 @@
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\bin\Debug\netcoreapp3.1\KarimiProject.RedisService.deps.json
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\bin\Debug\netcoreapp3.1\KarimiProject.RedisService.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\bin\Debug\netcoreapp3.1\KarimiProject.RedisService.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\bin\Debug\netcoreapp3.1\KarimiProject.Entities.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\bin\Debug\netcoreapp3.1\KarimiProject.Interfaces.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\bin\Debug\netcoreapp3.1\KarimiProject.Interfaces.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\bin\Debug\netcoreapp3.1\KarimiProject.Entities.pdb
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\obj\Debug\netcoreapp3.1\KarimiProject.RedisService.csprojAssemblyReference.cache
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\obj\Debug\netcoreapp3.1\KarimiProject.RedisService.csproj.CoreCompileInputs.cache
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\obj\Debug\netcoreapp3.1\KarimiProject.RedisService.AssemblyInfoInputs.cache
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\obj\Debug\netcoreapp3.1\KarimiProject.RedisService.AssemblyInfo.cs
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\obj\Debug\netcoreapp3.1\KarimiProject.RedisService.csproj.CopyComplete
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\obj\Debug\netcoreapp3.1\KarimiProject.RedisService.dll
+D:\Develop\Kavenegar\Infrastructure\KarimiProject.RediceService\obj\Debug\netcoreapp3.1\KarimiProject.RedisService.pdb

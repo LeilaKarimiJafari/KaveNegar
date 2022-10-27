@@ -1,0 +1,9 @@
+D:\Develop\Kavenegar\Core\Entities\bin\Debug\netcoreapp3.1\KarimiProject.Entities.deps.json
+D:\Develop\Kavenegar\Core\Entities\bin\Debug\netcoreapp3.1\KarimiProject.Entities.dll
+D:\Develop\Kavenegar\Core\Entities\bin\Debug\netcoreapp3.1\KarimiProject.Entities.pdb
+D:\Develop\Kavenegar\Core\Entities\obj\Debug\netcoreapp3.1\KarimiProject.Entities.csprojAssemblyReference.cache
+D:\Develop\Kavenegar\Core\Entities\obj\Debug\netcoreapp3.1\KarimiProject.Entities.csproj.CoreCompileInputs.cache
+D:\Develop\Kavenegar\Core\Entities\obj\Debug\netcoreapp3.1\KarimiProject.Entities.AssemblyInfoInputs.cache
+D:\Develop\Kavenegar\Core\Entities\obj\Debug\netcoreapp3.1\KarimiProject.Entities.AssemblyInfo.cs
+D:\Develop\Kavenegar\Core\Entities\obj\Debug\netcoreapp3.1\KarimiProject.Entities.dll
+D:\Develop\Kavenegar\Core\Entities\obj\Debug\netcoreapp3.1\KarimiProject.Entities.pdb

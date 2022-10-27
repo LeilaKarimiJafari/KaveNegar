@@ -1,0 +1,247 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExcelDataReader/3.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ExcelDataReader.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ExcelDataReader.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "System.Text.Encoding.CodePages/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "KarimiProject.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/KarimiProject.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KarimiProject.Entities.dll": {}
+        }
+      },
+      "KarimiProject.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "KarimiProject.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/KarimiProject.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KarimiProject.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcelDataReader/3.6.0": {
+      "sha512": "eXyxTwG7EEWpgQX3juZ2KcndqTqm/ydx9GXS2lUiMJU54U4h5eXdygRtVgINv0t60ezPWEb+lL7uM7Q+wm5BBA==",
+      "type": "package",
+      "path": "exceldatareader/3.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "exceldatareader.3.6.0.nupkg.sha512",
+        "exceldatareader.nuspec",
+        "lib/net20/ExcelDataReader.dll",
+        "lib/net20/ExcelDataReader.pdb",
+        "lib/net20/ExcelDataReader.xml",
+        "lib/net45/ExcelDataReader.dll",
+        "lib/net45/ExcelDataReader.pdb",
+        "lib/net45/ExcelDataReader.xml",
+        "lib/netstandard1.3/ExcelDataReader.dll",
+        "lib/netstandard1.3/ExcelDataReader.pdb",
+        "lib/netstandard1.3/ExcelDataReader.xml",
+        "lib/netstandard2.0/ExcelDataReader.dll",
+        "lib/netstandard2.0/ExcelDataReader.pdb",
+        "lib/netstandard2.0/ExcelDataReader.xml"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "sha512": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Text.Encoding.CodePages/6.0.0": {
+      "sha512": "ZFCILZuOvtKPauZ/j/swhvw68ZRi9ATCfvGbk1QfydmcXBkIWecWKn/250UH7rahZ5OoDBaiAudJtPvLwzw85A==",
+      "type": "package",
+      "path": "system.text.encoding.codepages/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Text.Encoding.CodePages.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.Text.Encoding.CodePages.dll",
+        "lib/net461/System.Text.Encoding.CodePages.xml",
+        "lib/net6.0/System.Text.Encoding.CodePages.dll",
+        "lib/net6.0/System.Text.Encoding.CodePages.xml",
+        "lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll",
+        "lib/netcoreapp3.1/System.Text.Encoding.CodePages.xml",
+        "lib/netstandard2.0/System.Text.Encoding.CodePages.dll",
+        "lib/netstandard2.0/System.Text.Encoding.CodePages.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "runtimes/win/lib/net461/System.Text.Encoding.CodePages.dll",
+        "runtimes/win/lib/net461/System.Text.Encoding.CodePages.xml",
+        "runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll",
+        "runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.xml",
+        "runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll",
+        "runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.xml",
+        "runtimes/win/lib/netstandard2.0/System.Text.Encoding.CodePages.dll",
+        "runtimes/win/lib/netstandard2.0/System.Text.Encoding.CodePages.xml",
+        "system.text.encoding.codepages.6.0.0.nupkg.sha512",
+        "system.text.encoding.codepages.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "KarimiProject.Entities/1.0.0": {
+      "type": "project",
+      "path": "../../Core/Entities/KarimiProject.Entities.csproj",
+      "msbuildProject": "../../Core/Entities/KarimiProject.Entities.csproj"
+    },
+    "KarimiProject.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../../Core/Interfaces/KarimiProject.Interfaces.csproj",
+      "msbuildProject": "../../Core/Interfaces/KarimiProject.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ExcelDataReader >= 3.6.0",
+      "KarimiProject.Interfaces >= 1.0.0",
+      "System.Text.Encoding.CodePages >= 6.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Develop\\Kavenegar\\Infrastructure\\KarimiProject.ExcelManager\\KarimiProject.ExcelManager.csproj",
+      "projectName": "KarimiProject.ExcelManager",
+      "projectPath": "D:\\Develop\\Kavenegar\\Infrastructure\\KarimiProject.ExcelManager\\KarimiProject.ExcelManager.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\Develop\\Kavenegar\\Infrastructure\\KarimiProject.ExcelManager\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\Develop\\Kavenegar\\Core\\Interfaces\\KarimiProject.Interfaces.csproj": {
+              "projectPath": "D:\\Develop\\Kavenegar\\Core\\Interfaces\\KarimiProject.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "ExcelDataReader": {
+            "target": "Package",
+            "version": "[3.6.0, )"
+          },
+          "System.Text.Encoding.CodePages": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

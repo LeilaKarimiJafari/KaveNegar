@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>KarimiProject.Interfaces</AssemblyName>
+    <RootNamespace>KarimiProject.Interfaces</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\KarimiProject.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
