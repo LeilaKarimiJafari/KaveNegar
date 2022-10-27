@@ -19,6 +19,10 @@ namespace KarimiProject.SqlService
 
         public async Task SetCustomersInDataBase(string fileName, List<Customer> customers)
         {
+            var dbImportedFile = dbContext.ImportedFiles.FirstOrDefault(f=>f.Name==fileName);
+            if (dbImportedFile != null)
+                return;
+
             ImportedFile importedFile = new ImportedFile() { ImportedTime = DateTime.Now, Name = fileName };
             dbContext.ImportedFiles.Add(importedFile);
 
