@@ -27,7 +27,7 @@ namespace KarimiProject.DataServiceAPI.Controllers
             this.hostEnvironment = hostEnvironment;
 
         }
-        [HttpGet()]
+        [HttpPost()]
         public async Task<ActionResult<string>> SetCustomersInDataBase(string folderName, DataServiceType serviceType)
         {
             try
@@ -39,11 +39,11 @@ namespace KarimiProject.DataServiceAPI.Controllers
                     await dataServiceFactory.GetDataService(serviceType).SetCustomersInDataBase(file_Customer.Key, file_Customer.Value);
                 }
 
-                return "All data submit successfully";
+                return Ok("All data submit successfully");
             }
             catch (Exception)
             {
-                return "Data submition failed";
+                return BadRequest("Data submition failed");
             }
         }
 
